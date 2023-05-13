@@ -1,0 +1,2 @@
+# App_occupancy_interactive_learning_new_ML_learning_method_spreadrate
+A project i did at G-Scope lab by coding an occupancy estimator of an office equipped with various sensors. I put the main file which contains some classes and  a new method i created of training ML models by integrating a mathematical measure called spreadrate into models that solves a recurring  issue with Classification problems.
